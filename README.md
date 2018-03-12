@@ -1,10 +1,10 @@
 # [React](http://facebook.github.io/react/)-radio-group
 
 ```
-npm install react-radio-group
+npm install react-radio-group-a11y
 ```
 
-Then either `import {RadioGroup, Radio} from 'react-radio-group'` or add `node_modules/react-radio-group/umd/index.js` into your HTML file (exports the `RadioGroup` global which contains both, the RadioGroup and Radio component.).
+Then either `import {RadioGroup, Radio} from 'react-radio-group-a11y'` or add `node_modules/react-radio-group-a11y/umd/index.js` into your HTML file (exports the `RadioGroup` global which contains both, the RadioGroup and Radio component.).
 
 ## What This Solves
 This is your average radio buttons group:

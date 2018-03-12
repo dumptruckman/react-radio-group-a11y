@@ -6,3 +6,4 @@ lib
 umd
 example/all*
 *.log
+package-lock.json

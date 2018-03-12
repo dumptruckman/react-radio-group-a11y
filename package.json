@@ -1,7 +1,7 @@
 {
-  "name": "react-radio-group",
+  "name": "react-radio-group-a11y",
   "version": "3.0.2",
-  "description": "Better radio buttons.",
+  "description": "Better radio buttons with accessibility support.",
   "main": "lib/index.js",
   "scripts": {
     "example": "webpack -w -d --config example/webpack.config.js example/example.jsx example/all.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chenglou/react-radio-group.git"
+    "url": "https://github.com/dumptruckman/react-radio-group.git"
   },
   "keywords": [
     "facebook",
@@ -38,13 +38,18 @@
       "name": "Jamison Dance",
       "email": "jergason@gmail.com",
       "url": "http://jamisondance.com"
+    },
+    {
+      "name": "Jeremy Wood",
+      "email": "contactjeremywood@gmail.com"
+      "url": "https://github.com/dumptruckman"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chenglou/react-radio-group/issues"
+    "url": "https://github.com/dumptruckman/react-radio-group/issues"
   },
-  "homepage": "https://github.com/chenglou/react-radio-group",
+  "homepage": "https://github.com/dumptruckman/react-radio-group",
   "peerDependencies": {
     "react": ">=0.14.0",
     "react-dom": "^15.5.4"
