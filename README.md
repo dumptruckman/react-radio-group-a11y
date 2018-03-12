@@ -1,4 +1,4 @@
-# [React](http://facebook.github.io/react/)-radio-group
+# [React](http://facebook.github.io/react/)-radio-group-a11y
 
 ```
 npm install react-radio-group-a11y
