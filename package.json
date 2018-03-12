@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dumptruckman/react-radio-group.git"
+    "url": "https://github.com/dumptruckman/react-radio-group-a11y.git"
   },
   "keywords": [
     "facebook",
@@ -32,24 +32,12 @@
     "react-dom": "^15.5.4",
     "webpack": "^1.8.11"
   },
-  "author": "chenglou <chenglou92@gmail.com>",
-  "contributors": [
-    {
-      "name": "Jamison Dance",
-      "email": "jergason@gmail.com",
-      "url": "http://jamisondance.com"
-    },
-    {
-      "name": "Jeremy Wood",
-      "email": "contactjeremywood@gmail.com",
-      "url": "https://github.com/dumptruckman"
-    }
-  ],
+  "author": "dumptruckman <contactjeremywood@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dumptruckman/react-radio-group/issues"
+    "url": "https://github.com/dumptruckman/react-radio-group-a11y/issues"
   },
-  "homepage": "https://github.com/dumptruckman/react-radio-group",
+  "homepage": "https://github.com/dumptruckman/react-radio-group-a11y",
   "peerDependencies": {
     "react": ">=0.14.0",
     "react-dom": "^15.5.4"
